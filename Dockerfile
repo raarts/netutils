@@ -9,6 +9,7 @@ RUN apt-get update && \
  iftop \
  iperf \
  iputils-ping \
+ lynx \
  mtr-tiny \
  net-tools \
  netcat \
